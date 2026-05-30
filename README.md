@@ -27,4 +27,4 @@ The simulation was tested under three main scenarios:
 2. **High Capacitive Load (5 nF):** Results in a delayed wave front, exceeding IEC limits.
 3. **Low Ohmic Load (1000 Ω):** Causes premature discharge, drastically shortening the wave tail ($T_2$).
 
-Detailed graphical comparisons and mathematical proofs can be found in the `docs/report.pdf` file.
+Detailed graphical comparisons and mathematical proofs can be found in the `docs/HV_Marx_Generator_Simulation_Report.pdf` file.
